@@ -1,0 +1,8 @@
+name: DBWhitelist
+version: 0.0.1 
+main: io.github.mozzi20.dbwhitelist.Plugin
+database: true 
+commands:
+  whois:
+   description: Se vad en spelare heter.
+   usage: /whois username
